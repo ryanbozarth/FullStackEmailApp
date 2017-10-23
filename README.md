@@ -1,6 +1,6 @@
 # Email App
 
-serene-headland-52325.herokuapp.com/
+http://serene-headland-52325.herokuapp.com/
 
 ## Introduction
 A full stack javascript email app that enables you to login with Google, create email campaigns/surveys, send them out through the SendGrid API, and pay for them via Stripe (test mode). Not currently maintained.
